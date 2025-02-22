@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Marcos Porto -- Software developer -- https://www.linkedin.com/in/marqitos/
+
+# THANKS
+
+    Brais Moure
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, PHP, TailwindCSS4, Modernizr, Normalize.css

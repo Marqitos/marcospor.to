@@ -1,0 +1,17 @@
+section {
+  &#principal,
+  &#obligatorio,
+  &#recomendable,
+  &#opcional {
+    h2 {
+      @apply p-4;
+    }
+    ul {
+      @apply p-6 pb-4 rounded-3xl border-3;
+
+      li {
+        @apply pb-2;
+      }
+    }
+  }
+}

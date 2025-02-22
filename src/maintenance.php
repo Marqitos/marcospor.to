@@ -44,7 +44,7 @@
                 <header class="p-6 pt-8">
                     <h1 class="courier-prime-regular text-violet-800 dark:text-violet-100 text-center">// TODO: PORTAFOLIO WEB</h1>
                 </header>
-                <main class="grid grid-cols-4 gap-4">
+                <main class="grid grid-cols-4 gap-4 items-stretch pl-2 pr-2">
                     <section id="principal" class="text-gray-800 dark:text-gray-200">
                         <h2>Principal</h2>
                         <ul class="roboto-slab-regular border-gray-800 dark:border-gray-200">

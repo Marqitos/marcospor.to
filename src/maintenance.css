@@ -3,11 +3,12 @@ section {
   &#obligatorio,
   &#recomendable,
   &#opcional {
+    @apply flex flex-col;
     h2 {
       @apply p-4;
     }
     ul {
-      @apply p-6 pb-4 rounded-3xl border-3;
+      @apply p-6 flex-grow pb-4 rounded-3xl border-3;
 
       li {
         @apply pb-2;
